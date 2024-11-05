@@ -1,4 +1,4 @@
-# Submission_Bookshelf_API_BackendPemula
+# SubmissionDicoding_BackendPemula
 
-Submission: Bookshelf API
+Submission: Bookshelf API \n
 Kelas diselesaikan pada tanggal 05 November 2024
